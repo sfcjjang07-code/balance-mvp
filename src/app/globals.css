@@ -1,0 +1,10 @@
+/* Split global stylesheet entrypoint. Visual output intentionally unchanged. */
+
+@import "./styles/00-foundations.css";
+@import "./styles/10-header-hero.css";
+@import "./styles/20-home-cards.css";
+@import "./styles/30-detail.css";
+@import "./styles/40-admin.css";
+@import "./styles/50-visitors-upload.css";
+@import "./styles/60-footer-legal.css";
+@import "./styles/90-responsive.css";

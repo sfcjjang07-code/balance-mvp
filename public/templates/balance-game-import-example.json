@@ -1,0 +1,28 @@
+[
+  {
+    "slug": "sea-stay-vs-valley-stay",
+    "title": "바다 숙소 vs 계곡 숙소",
+    "category": "여행·휴식",
+    "tags": [
+      "여행",
+      "숙소",
+      "자연",
+      "휴식"
+    ],
+    "choice_a_label": "바다 숙소",
+    "choice_b_label": "계곡 숙소"
+  },
+  {
+    "slug": "remote-work-vs-office-work",
+    "title": "재택근무 vs 출근",
+    "category": "직장·루틴",
+    "tags": [
+      "직장",
+      "루틴",
+      "일상",
+      "선택"
+    ],
+    "choice_a_label": "재택근무",
+    "choice_b_label": "출근"
+  }
+]

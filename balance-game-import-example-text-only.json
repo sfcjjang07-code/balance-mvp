@@ -1,0 +1,382 @@
+[
+  {
+    "slug": "gelato-cafe-vs-bingsu-house",
+    "title": "젤라토 카페 vs 빙수집",
+    "category": "음식",
+    "tags": [
+      "여름",
+      "디저트",
+      "주말"
+    ],
+    "description": "더운 날 한 군데만 들를 수 있다면 어떤 디저트 코스를 고를지 묻는 가벼운 밸런스게임입니다.",
+    "seed_vote_a": 12,
+    "seed_vote_b": 12,
+    "choice_a_label": "젤라토 카페",
+    "choice_a_image": "",
+    "choice_a_summary": "한 스쿱씩 다양한 맛을 골라보는 선명한 비주얼의 디저트 코스",
+    "choice_b_label": "빙수집",
+    "choice_b_image": "",
+    "choice_b_summary": "토핑 가득한 큰 그릇 하나로 시원하게 즐기는 여름 대표 디저트 코스"
+  },
+  {
+    "slug": "sea-stay-vs-valley-stay",
+    "title": "바다 숙소 vs 계곡 숙소",
+    "category": "여행",
+    "tags": [
+      "여행",
+      "자연",
+      "휴식"
+    ],
+    "description": "하루 쉬러 떠날 때 더 끌리는 풍경이 바다인지 계곡인지 고르는 자연형 밸런스게임입니다.",
+    "seed_vote_a": 12,
+    "seed_vote_b": 12,
+    "choice_a_label": "바다 숙소",
+    "choice_a_image": "",
+    "choice_a_summary": "창문을 열면 수평선과 파도 소리가 먼저 들어오는 휴식 스타일",
+    "choice_b_label": "계곡 숙소",
+    "choice_b_image": "",
+    "choice_b_summary": "숲 냄새와 물소리로 더위를 식히는 조용한 휴식 스타일"
+  },
+  {
+    "slug": "wood-tone-room-vs-white-room",
+    "title": "우드톤 방 vs 화이트톤 방",
+    "category": "공간",
+    "tags": [
+      "인테리어",
+      "공간",
+      "취향"
+    ],
+    "description": "오래 머무를 방을 하나만 고른다면 따뜻한 우드톤인지 밝은 화이트톤인지 선택하는 인테리어 주제입니다.",
+    "seed_vote_a": 12,
+    "seed_vote_b": 12,
+    "choice_a_label": "우드톤 방",
+    "choice_a_image": "",
+    "choice_a_summary": "따뜻하고 안정적인 분위기로 오래 있어도 편안한 공간",
+    "choice_b_label": "화이트톤 방",
+    "choice_b_image": "",
+    "choice_b_summary": "넓고 환해 보이며 깔끔한 인상이 살아나는 공간"
+  },
+  {
+    "slug": "dog-life-vs-cat-life",
+    "title": "강아지와 살기 vs 고양이와 살기",
+    "category": "반려",
+    "tags": [
+      "반려",
+      "동물",
+      "일상"
+    ],
+    "description": "반려 생활을 시작한다면 어떤 일상 리듬이 더 나와 맞는지 고르는 주제입니다.",
+    "seed_vote_a": 12,
+    "seed_vote_b": 12,
+    "choice_a_label": "강아지와 살기",
+    "choice_a_image": "",
+    "choice_a_summary": "산책과 반응이 분명한 교감이 많은 생활 루틴",
+    "choice_b_label": "고양이와 살기",
+    "choice_b_image": "",
+    "choice_b_summary": "차분한 거리감과 독립적인 매력이 있는 생활 루틴"
+  },
+  {
+    "slug": "picnic-date-vs-museum-date",
+    "title": "피크닉 데이트 vs 미술관 데이트",
+    "category": "데이트",
+    "tags": [
+      "데이트",
+      "주말",
+      "나들이"
+    ],
+    "description": "주말 약속을 하나만 정한다면 바깥 공기 가득한 피크닉과 조용한 미술관 중 어느 쪽이 더 끌리는지 묻습니다.",
+    "seed_vote_a": 12,
+    "seed_vote_b": 12,
+    "choice_a_label": "피크닉 데이트",
+    "choice_a_image": "",
+    "choice_a_summary": "돗자리와 간식, 햇빛을 즐기며 느긋하게 시간을 보내는 선택",
+    "choice_b_label": "미술관 데이트",
+    "choice_b_image": "",
+    "choice_b_summary": "작품을 함께 보고 이야기 나누며 차분하게 시간을 보내는 선택"
+  },
+  {
+    "slug": "sunrise-trip-vs-starlight-trip",
+    "title": "일출 여행 vs 별 보기 여행",
+    "category": "여행",
+    "tags": [
+      "풍경",
+      "여행",
+      "감성"
+    ],
+    "description": "인상 깊은 풍경 여행을 한 번만 갈 수 있다면 아침의 일출과 밤하늘의 별빛 중 어느 쪽을 택할지 고르는 주제입니다.",
+    "seed_vote_a": 12,
+    "seed_vote_b": 12,
+    "choice_a_label": "일출 여행",
+    "choice_a_image": "",
+    "choice_a_summary": "새벽에 움직여 첫 햇살이 올라오는 장면을 직접 보는 선택",
+    "choice_b_label": "별 보기 여행",
+    "choice_b_image": "",
+    "choice_b_summary": "도시 불빛을 벗어나 밤하늘의 별 밀도를 온전히 느끼는 선택"
+  },
+  {
+    "slug": "sneakers-style-vs-loafers-style",
+    "title": "운동화 위주 스타일 vs 로퍼 위주 스타일",
+    "category": "패션",
+    "tags": [
+      "패션",
+      "스타일",
+      "일상"
+    ],
+    "description": "옷장 전체 분위기를 한쪽으로 맞춰야 한다면 캐주얼한 운동화 중심과 단정한 로퍼 중심 중 무엇을 고를지 보는 패션 주제입니다.",
+    "seed_vote_a": 12,
+    "seed_vote_b": 12,
+    "choice_a_label": "운동화 위주 스타일",
+    "choice_a_image": "",
+    "choice_a_summary": "활동성과 편안함이 강한 데일리 중심 스타일",
+    "choice_b_label": "로퍼 위주 스타일",
+    "choice_b_image": "",
+    "choice_b_summary": "깔끔하고 정돈된 분위기를 만들기 좋은 스타일"
+  },
+  {
+    "slug": "brunch-tour-vs-market-food-tour",
+    "title": "브런치 카페 투어 vs 시장 맛집 투어",
+    "category": "나들이",
+    "tags": [
+      "음식",
+      "주말",
+      "탐방"
+    ],
+    "description": "주말 먹거리 코스를 하나만 정한다면 감성적인 브런치 투어와 활기 있는 시장 탐방 중 어느 쪽을 고를지 묻는 주제입니다.",
+    "seed_vote_a": 12,
+    "seed_vote_b": 12,
+    "choice_a_label": "브런치 카페 투어",
+    "choice_a_image": "",
+    "choice_a_summary": "플레이팅과 공간 분위기를 함께 즐기는 느긋한 먹거리 코스",
+    "choice_b_label": "시장 맛집 투어",
+    "choice_b_image": "",
+    "choice_b_summary": "짧고 굵게 여러 메뉴를 맛보며 활기를 즐기는 먹거리 코스"
+  },
+  {
+    "slug": "late-start-vs-early-finish",
+    "title": "출근 1시간 늦추기 vs 퇴근 1시간 당기기",
+    "category": "직장",
+    "tags": [
+      "직장",
+      "시간",
+      "일상"
+    ],
+    "description": "근무 시간 총량은 그대로일 때 하루 만족도가 더 높아질 방향을 고르는 직장형 밸런스게임입니다.",
+    "seed_vote_a": 12,
+    "seed_vote_b": 12,
+    "choice_a_label": "출근 1시간 늦추기",
+    "choice_a_image": "",
+    "choice_a_summary": "아침 준비와 이동 부담을 줄이고 시작하는 하루 루틴",
+    "choice_b_label": "퇴근 1시간 당기기",
+    "choice_b_image": "",
+    "choice_b_summary": "하루 마무리 시간을 더 길게 확보하는 저녁 중심 루틴"
+  },
+  {
+    "slug": "summer-only-vs-winter-only",
+    "title": "평생 여름만 살기 vs 평생 겨울만 살기",
+    "category": "라이프",
+    "tags": [
+      "계절",
+      "취향",
+      "가정"
+    ],
+    "description": "하나의 계절만 계속 반복된다면 어느 쪽이 더 나에게 잘 맞는지 보는 고전형 주제입니다.",
+    "seed_vote_a": 12,
+    "seed_vote_b": 12,
+    "choice_a_label": "평생 여름만 살기",
+    "choice_a_image": "",
+    "choice_a_summary": "가벼운 옷차림과 긴 해를 즐기는 생활 방식",
+    "choice_b_label": "평생 겨울만 살기",
+    "choice_b_image": "",
+    "choice_b_summary": "차가운 공기와 두꺼운 옷, 선명한 계절감을 즐기는 생활 방식"
+  },
+  {
+    "slug": "call-first-vs-text-first",
+    "title": "중요한 얘기는 전화 vs 중요한 얘기는 문자",
+    "category": "소통",
+    "tags": [
+      "소통",
+      "연락",
+      "일상"
+    ],
+    "description": "진지한 대화를 꼭 하나의 방식으로만 해야 한다면 어떤 전달 방식이 더 편한지 고르는 주제입니다.",
+    "seed_vote_a": 12,
+    "seed_vote_b": 12,
+    "choice_a_label": "중요한 얘기는 전화",
+    "choice_a_image": "",
+    "choice_a_summary": "톤과 속도를 바로 전달하며 오해를 줄이기 쉬운 방식",
+    "choice_b_label": "중요한 얘기는 문자",
+    "choice_b_image": "",
+    "choice_b_summary": "생각을 정리해 차분하게 남길 수 있는 방식"
+  },
+  {
+    "slug": "planned-trip-vs-spontaneous-trip",
+    "title": "여행은 철저한 계획 vs 여행은 즉흥이 핵심",
+    "category": "여행",
+    "tags": [
+      "여행",
+      "성향",
+      "계획"
+    ],
+    "description": "여행 만족도를 결정짓는 방식이 사전 계획인지 현장 선택인지 묻는 성향형 주제입니다.",
+    "seed_vote_a": 12,
+    "seed_vote_b": 12,
+    "choice_a_label": "철저한 계획 여행",
+    "choice_a_image": "",
+    "choice_a_summary": "동선과 예산을 미리 정해 안정적으로 움직이는 방식",
+    "choice_b_label": "즉흥 여행",
+    "choice_b_image": "",
+    "choice_b_summary": "그날 분위기와 현장 정보에 따라 자유롭게 움직이는 방식"
+  },
+  {
+    "slug": "remote-work-vs-office-work",
+    "title": "완전 재택근무 vs 사무실 출근",
+    "category": "직장",
+    "tags": [
+      "직장",
+      "근무방식",
+      "루틴"
+    ],
+    "description": "일하는 장소를 한 방식으로만 고정해야 할 때 더 만족스러운 근무 환경을 고르는 주제입니다.",
+    "seed_vote_a": 12,
+    "seed_vote_b": 12,
+    "choice_a_label": "완전 재택근무",
+    "choice_a_image": "",
+    "choice_a_summary": "이동 시간을 줄이고 나만의 환경에서 몰입하는 방식",
+    "choice_b_label": "사무실 출근",
+    "choice_b_image": "",
+    "choice_b_summary": "업무와 생활을 명확히 분리하며 현장 소통을 살리는 방식"
+  },
+  {
+    "slug": "morning-focus-vs-night-focus",
+    "title": "집중은 아침형 vs 집중은 밤형",
+    "category": "자기관리",
+    "tags": [
+      "집중",
+      "루틴",
+      "자기관리"
+    ],
+    "description": "가장 중요한 일을 언제 처리해야 만족도가 높아지는지 보는 루틴형 주제입니다.",
+    "seed_vote_a": 12,
+    "seed_vote_b": 12,
+    "choice_a_label": "아침형 집중",
+    "choice_a_image": "",
+    "choice_a_summary": "하루 초반 에너지가 높은 시간에 핵심 일을 끝내는 방식",
+    "choice_b_label": "밤형 집중",
+    "choice_b_image": "",
+    "choice_b_summary": "조용한 시간대에 몰입도를 끌어올리는 방식"
+  },
+  {
+    "slug": "reading-hour-vs-walking-hour",
+    "title": "퇴근 후 독서 1시간 vs 산책 1시간",
+    "category": "휴식",
+    "tags": [
+      "휴식",
+      "루틴",
+      "회복"
+    ],
+    "description": "하루를 정리하는 시간을 하나만 정해야 한다면 머리를 채우는 독서와 몸을 푸는 산책 중 무엇이 더 필요한지 묻습니다.",
+    "seed_vote_a": 12,
+    "seed_vote_b": 12,
+    "choice_a_label": "독서 1시간",
+    "choice_a_image": "",
+    "choice_a_summary": "집중을 천천히 회복하며 생각을 넓히는 저녁 루틴",
+    "choice_b_label": "산책 1시간",
+    "choice_b_image": "",
+    "choice_b_summary": "몸을 움직이며 머리를 비우는 저녁 루틴"
+  },
+  {
+    "slug": "sns-off-vs-delivery-off",
+    "title": "한 달 SNS 끊기 vs 한 달 배달앱 끊기",
+    "category": "습관",
+    "tags": [
+      "습관",
+      "디지털",
+      "절제"
+    ],
+    "description": "생활을 가볍게 만들기 위해 하나를 한 달간 멈춘다면 어디를 먼저 줄일지 보는 습관형 주제입니다.",
+    "seed_vote_a": 12,
+    "seed_vote_b": 12,
+    "choice_a_label": "SNS 끊기",
+    "choice_a_image": "",
+    "choice_a_summary": "정보 과부하와 비교 피로를 줄이는 디지털 절제",
+    "choice_b_label": "배달앱 끊기",
+    "choice_b_image": "",
+    "choice_b_summary": "식비와 즉흥 소비를 줄이는 생활 절제"
+  },
+  {
+    "slug": "four-day-week-vs-six-hour-day",
+    "title": "주 4일 근무 vs 하루 6시간 근무",
+    "category": "직장",
+    "tags": [
+      "직장",
+      "제도",
+      "시간"
+    ],
+    "description": "일의 총량이 비슷하다고 가정할 때 더 만족도가 높을 제도를 고르는 근무제도 주제입니다.",
+    "seed_vote_a": 12,
+    "seed_vote_b": 12,
+    "choice_a_label": "주 4일 근무",
+    "choice_a_image": "",
+    "choice_a_summary": "하루는 통째로 쉬며 리듬을 크게 회복하는 방식",
+    "choice_b_label": "하루 6시간 근무",
+    "choice_b_image": "",
+    "choice_b_summary": "매일 여유를 확보해 꾸준히 균형을 맞추는 방식"
+  },
+  {
+    "slug": "write-it-down-vs-remember-it",
+    "title": "기록해두기 vs 기억에 맡기기",
+    "category": "습관",
+    "tags": [
+      "기록",
+      "습관",
+      "생산성"
+    ],
+    "description": "아이디어와 할 일을 관리하는 기본 철학이 무엇인지 보는 생산성 성향 주제입니다.",
+    "seed_vote_a": 12,
+    "seed_vote_b": 12,
+    "choice_a_label": "기록해두기",
+    "choice_a_image": "",
+    "choice_a_summary": "외부 도구에 맡겨 머리를 비우는 관리 방식",
+    "choice_b_label": "기억에 맡기기",
+    "choice_b_image": "",
+    "choice_b_summary": "간단한 것은 머릿속에서 바로 처리하는 방식"
+  },
+  {
+    "slug": "speak-first-vs-listen-first",
+    "title": "먼저 말하기 vs 끝까지 듣기",
+    "category": "소통",
+    "tags": [
+      "소통",
+      "성향",
+      "관계"
+    ],
+    "description": "대화에서 내가 편한 기본 자세가 무엇인지 묻는 커뮤니케이션 성향형 주제입니다.",
+    "seed_vote_a": 12,
+    "seed_vote_b": 12,
+    "choice_a_label": "먼저 말하기",
+    "choice_a_image": "",
+    "choice_a_summary": "내 생각을 먼저 꺼내 대화의 방향을 만드는 스타일",
+    "choice_b_label": "끝까지 듣기",
+    "choice_b_image": "",
+    "choice_b_summary": "상대 이야기를 충분히 받은 뒤 정리해 말하는 스타일"
+  },
+  {
+    "slug": "new-hobby-vs-master-old-hobby",
+    "title": "새 취미 넓게 배우기 vs 한 취미 깊게 파기",
+    "category": "취미",
+    "tags": [
+      "취미",
+      "성향",
+      "성장"
+    ],
+    "description": "취미 생활을 확장형으로 가져갈지 몰입형으로 가져갈지 묻는 성장형 주제입니다.",
+    "seed_vote_a": 12,
+    "seed_vote_b": 12,
+    "choice_a_label": "새 취미 넓게 배우기",
+    "choice_a_image": "",
+    "choice_a_summary": "다양한 자극과 경험을 넓게 모으는 방식",
+    "choice_b_label": "한 취미 깊게 파기",
+    "choice_b_image": "",
+    "choice_b_summary": "한 분야의 만족도와 숙련도를 높이는 방식"
+  }
+]

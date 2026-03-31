@@ -1,0 +1,255 @@
+/* Admin layout and form styles */
+
+.admin-layout {
+  display: grid;
+  gap: 18px;
+}
+
+.admin-grid {
+  display: grid;
+  grid-template-columns: minmax(0, 1.2fr) minmax(340px, 0.8fr);
+  gap: 18px;
+}
+
+.admin-form,
+.admin-side,
+.admin-list-panel {
+  display: grid;
+  gap: 18px;
+}
+
+.section-head--stack {
+  align-items: flex-start;
+}
+
+.admin-fields {
+  display: grid;
+  gap: 16px;
+}
+
+.field-grid {
+  display: grid;
+  gap: 14px;
+}
+
+.field-grid--2 {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+.field {
+  display: grid;
+  gap: 8px;
+}
+
+.field__label {
+  color: var(--text);
+  font-size: 0.92rem;
+  font-weight: 800;
+}
+
+.text-input--light,
+.text-area {
+  background: rgba(255, 255, 255, 0.06);
+}
+
+.text-area {
+  width: 100%;
+  min-height: 108px;
+  padding: 16px 18px;
+  border: 1px solid transparent;
+  border-radius: 18px;
+  color: var(--text);
+  resize: vertical;
+  outline: none;
+  transition:
+    border-color 0.18s ease,
+    background 0.18s ease;
+}
+
+.text-area:focus {
+  border-color: rgba(138, 180, 255, 0.5);
+  background: rgba(255, 255, 255, 0.08);
+}
+
+.slug-preview {
+  padding: 14px 16px;
+  border-radius: 16px;
+  background: rgba(255, 255, 255, 0.04);
+  color: var(--text-soft);
+}
+
+.slug-preview strong {
+  color: var(--text);
+}
+
+.choice-editor {
+  display: grid;
+  gap: 14px;
+  padding: 16px;
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  border-radius: 22px;
+  background: rgba(255, 255, 255, 0.04);
+}
+
+.choice-editor__head {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.choice-editor__badge {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  border-radius: 999px;
+  background: rgba(79, 70, 229, 0.18);
+  color: #dfe2ff;
+  font-weight: 900;
+}
+
+.choice-editor__badge--right {
+  background: rgba(192, 132, 252, 0.18);
+  color: #f3e8ff;
+}
+
+.choice-editor__title,
+.admin-list__title {
+  margin: 0;
+  letter-spacing: -0.03em;
+}
+
+.choice-editor__fields,
+.admin-actions,
+.admin-list,
+.admin-snippet__head {
+  display: grid;
+  gap: 12px;
+}
+
+.admin-actions {
+  grid-template-columns: repeat(2, minmax(0, max-content));
+}
+
+.admin-list__item {
+  display: grid;
+  gap: 12px;
+  padding: 16px;
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  border-radius: 22px;
+  background: rgba(255, 255, 255, 0.04);
+}
+
+.admin-list__meta,
+.admin-list__actions,
+.admin-snippet__head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+.admin-list__slug {
+  color: rgba(247, 248, 251, 0.58);
+  font-size: 0.84rem;
+}
+
+.admin-snippet {
+  overflow: auto;
+  margin: 0;
+  padding: 18px;
+  border-radius: 20px;
+  background: #07101f;
+  border: 1px solid rgba(138, 180, 255, 0.16);
+  color: #d9e7ff;
+  font-size: 0.84rem;
+  line-height: 1.7;
+}
+
+.empty-state--light {
+  background: rgba(255, 255, 255, 0.04);
+  border-radius: 20px;
+}
+
+.action-button--danger {
+  border-color: rgba(255, 99, 132, 0.22);
+  color: #ffd8df;
+}
+
+
+.field__hint {
+  color: rgba(247, 248, 251, 0.58);
+  font-size: 0.82rem;
+  line-height: 1.55;
+}
+
+.field--slug-helper {
+  align-content: start;
+}
+
+.slug-preview--tight {
+  padding: 12px 14px;
+}
+
+.admin-note-card {
+  display: grid;
+  gap: 8px;
+  padding: 16px 18px;
+  border: 1px solid rgba(138, 180, 255, 0.18);
+  border-radius: 18px;
+  background: rgba(255, 255, 255, 0.05);
+  color: var(--text-soft);
+}
+
+.admin-note-card strong {
+  color: var(--text);
+}
+
+.admin-note-card p {
+  margin: 0;
+  line-height: 1.7;
+}
+
+.admin-note-card code {
+  color: #ffffff;
+}
+
+.action-button--small {
+  min-height: 42px;
+  padding: 0 14px;
+  font-size: 0.86rem;
+}
+
+.text-input--compact {
+  min-height: 46px;
+  padding: 0 14px;
+  font-size: 0.92rem;
+}
+
+.admin-list-toolbar {
+  display: grid;
+  grid-template-columns: auto minmax(0, 1fr);
+  gap: 12px;
+  align-items: center;
+}
+
+.admin-list-toolbar__count {
+  color: var(--text-soft);
+  font-size: 0.92rem;
+}
+
+.admin-list-toolbar__count strong {
+  color: var(--text);
+}
+
+.admin-list--scroll {
+  max-height: 560px;
+  overflow: auto;
+  padding-right: 6px;
+}
+
+.admin-toggle-button {
+  width: 100%;
+}

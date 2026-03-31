@@ -1,0 +1,5 @@
+로컬 게임 이미지는 이 폴더에 저장하세요.
+예시 경로: public/images/games/beach.jpg
+입력값 예시: /images/games/beach.jpg
+권장 비율: 16:9
+권장 크기: 최소 1200x675px, 여유 있게 1600x900px
